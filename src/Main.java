@@ -27,5 +27,7 @@ public class Main {
         //MOSTRAR VALORES
         System.out.println ("Variable byte:" + variableByte);
         System.out.println ("Variable short:" + variableShort);
+        System.out.println ("Variable int:" + variableInt);
+
     }
 }
