@@ -5,7 +5,7 @@ public class Main {
         // Para declarar una variable primero se coloca el tipo de variable, luego en nombre de la varibale y por ultimo le damos valor a esa variable
 
  //TIPOS DE VARIABLES
-
+/*
         //NUMEROS ENTEROS
         byte variableByte = 127;
         short variableShort = 31000;
@@ -28,6 +28,12 @@ public class Main {
         System.out.println ("Variable byte:" + variableByte);
         System.out.println ("Variable short:" + variableShort);
         System.out.println ("Variable int:" + variableInt);
+*/
+
+        //  CONSTANTES
+        final int VALOR_CONSTANTE = 100;
+        System.out.println("El valor constante es "+ VALOR_CONSTANTE);
+
 
     }
 }
